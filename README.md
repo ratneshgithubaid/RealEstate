@@ -21,4 +21,10 @@ npm run dev
 ## Build Command
 npm run build
 
-## Screenshots
+# Project Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/assets/images/Home.png)
+
+### 📄 About Page
+![About Page](./screenshots/about.png)
