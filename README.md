@@ -27,7 +27,7 @@ npm run build
 ![Home Page](./src/assets/images/Home.png)
 
 ### 📄 About Page
-![About Page](./screenshots/Section1.png)
+![About Page](./src/assets/Section1.png)
 
 ### 📄 Details Page
-![About Page](./screenshots/Section2.png)
+![About Page](./src/assets/Section2.png)
